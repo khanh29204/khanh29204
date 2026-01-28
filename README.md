@@ -2,13 +2,13 @@
 ### Full-stack Developer (Mobile Focus)
 <p align="left">
   <a href="mailto:phamngocquockhanh2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/khanh29204"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.facebook.com/pnqkhanh29204"><img src="https://img.shields.io/badge/Facebook-181717?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
 ---
 
 ## 🚀 About Me
-I am a **Full-stack Developer** with a heavy focus on **Mobile development (React Native)**. I enjoy diving deep into technical challenges, from reverse-engineering APIs to architecting high-performance gRPC gateways. 
+I am a **Full-stack Developer** with a heavy focus on **Mobile development (React Native)**.
 
 My goal is to build scalable, maintainable applications that provide seamless user experiences. I strictly follow **Clean Code** principles and **Conventional Commits** to ensure high-quality software standards.
 
@@ -47,10 +47,8 @@ My goal is to build scalable, maintainable applications that provide seamless us
 ---
 
 ## 📊 GitHub Stats
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=khanh29204&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+![Quoc Khanh's GitHub stats](https://github-readme-stats.vercel.app/api?username=khanh29204&show_icons=true&theme=radical)
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanh29204&layout=compact&theme=radical&langs_count=8"/>
-</p>
 
 ---
 
