@@ -38,10 +38,11 @@ My goal is to build scalable, maintainable applications that provide seamless us
 - **Achievement:** 1,500+ Users & 500+ DAU.
 - **Tech Highlights:** Hooked gRPC services, Protocol translation (gRPC to REST/Socket.io), Background media processing.
 
-### 🇻🇳 [Wander Vietnam](https://govietnam.app)
-- **Concept:** Award-winning smart tourism application.
-- **Role:** Team Leader & Lead Mobile Developer.
-- **Tech Highlights:** Mapbox/Google Maps integration, GPS tracking, ZaloPay/PayOS integration.
+### 🇻🇳 [Go Vietnam](https://govietnam.app)
+- **Concept:** A comprehensive commercial tourism platform.
+- **Role:** Full-stack Developer.
+- **Key Tech:** NestJS, Next.js, MongoDB.
+- **Highlights:** Designed a scalable backend ecosystem, integrated PayOS with automated webhooks, and optimized MongoDB performance for high-concurrency tour management.
 
 ---
 
