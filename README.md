@@ -49,6 +49,7 @@ My goal is to build scalable, maintainable applications that provide seamless us
 ## 📊 GitHub Stats
 ![Quoc Khanh's GitHub stats](https://github-readme-stats.vercel.app/api?username=khanh29204&show_icons=true&theme=radical)
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanh29204&layout=compact&theme=radical&langs_count=8"/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=khanh29204&theme=radical)](https://git.io/streak-stats)
 
 ---
 
